@@ -1,0 +1,22 @@
+sud/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Ignore Python cache artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment directories
+venv/
+.env/
+.venv/
+
+# macOS cruft
+.DS_Store
+
+# Ignore scratch working directories
+scratch/
