@@ -1,0 +1,410 @@
+<trigger>
+<station>KORUM</station>
+<network>OZ</network>
+<location>60</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 22.922</time>
+<value>P</value>
+</trigger>
+
+<trigger>
+<station>KORUM</station>
+<network>OZ</network>
+<location>60</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 22.922</time>
+<value>AML 0.000069591</value>
+</trigger>
+
+<trigger>
+<station>KORUM</station>
+<network>OZ</network>
+<location>60</location>
+<channel>HHN</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 38.855</time>
+<value>S</value>
+</trigger>
+
+<trigger>
+<station>DAMM</station>
+<network>DU</network>
+<location>0</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 20.302</time>
+<value>AML 1462.960449219</value>
+</trigger>
+
+<trigger>
+<station>FRTM</station>
+<network>OZ</network>
+<location>60</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 43.230</time>
+<value>AML 0.000034993</value>
+</trigger>
+
+<trigger>
+<station>CCRM</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 29.697</time>
+<value>P</value>
+</trigger>
+
+<trigger>
+<station>CCRM</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 29.697</time>
+<value>AML 0.000126071</value>
+</trigger>
+
+<trigger>
+<station>CCRM</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHN</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 52.280</time>
+<value>S</value>
+</trigger>
+
+<trigger>
+<station>AUMAG</station>
+<network>S1</network>
+<location>_</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 41.601</time>
+<value>AML 0.000204619</value>
+</trigger>
+
+<trigger>
+<station>HOPM</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 32.959</time>
+<value>P</value>
+</trigger>
+
+<trigger>
+<station>HOPM</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 32.959</time>
+<value>AML 0.000131577</value>
+</trigger>
+
+<trigger>
+<station>HOPM</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHN</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 50.523</time>
+<value>S</value>
+</trigger>
+
+<trigger>
+<station>DROM</station>
+<network>OZ</network>
+<location>60</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 26.560</time>
+<value>P</value>
+</trigger>
+
+<trigger>
+<station>DROM</station>
+<network>OZ</network>
+<location>60</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 26.560</time>
+<value>AML 0.000105857</value>
+</trigger>
+
+<trigger>
+<station>DROM</station>
+<network>OZ</network>
+<location>60</location>
+<channel>HHN</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 46.759</time>
+<value>S</value>
+</trigger>
+
+<trigger>
+<station>MLWM</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 09.405</time>
+<value>i-P</value>
+</trigger>
+
+<trigger>
+<station>MLWM</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 09.405</time>
+<value>AML 0.000247890</value>
+</trigger>
+
+<trigger>
+<station>MLWM</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHN</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 14.494</time>
+<value>S</value>
+</trigger>
+
+<trigger>
+<station>MLBS</station>
+<network>AU</network>
+<location>00</location>
+<channel>BHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 23.484</time>
+<value>AML 0.000266134</value>
+</trigger>
+
+<trigger>
+<station>AUSSC</station>
+<network>S1</network>
+<location>_</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 38.288</time>
+<value>AML 0.000168519</value>
+</trigger>
+
+<trigger>
+<station>TOO</station>
+<network>AU</network>
+<location>00</location>
+<channel>BHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 12.121</time>
+<value>P</value>
+</trigger>
+
+<trigger>
+<station>TOO</station>
+<network>AU</network>
+<location>00</location>
+<channel>BHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 12.121</time>
+<value>AML 0.000414903</value>
+</trigger>
+
+<trigger>
+<station>TOO</station>
+<network>AU</network>
+<location>00</location>
+<channel>BHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 19.105</time>
+<value>S</value>
+</trigger>
+
+<trigger>
+<station>TOO</station>
+<network>AU</network>
+<location>00</location>
+<channel>BHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 19.425</time>
+<value>MAX</value>
+</trigger>
+
+<trigger>
+<station>TOT</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 14.354</time>
+<value>P</value>
+</trigger>
+
+<trigger>
+<station>TOT</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 14.354</time>
+<value>AML 0.000498902</value>
+</trigger>
+
+<trigger>
+<station>TOT</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHN</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 22.673</time>
+<value>S</value>
+</trigger>
+
+<trigger>
+<station>GEXS</station>
+<network>AU</network>
+<location>00</location>
+<channel>BHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 33.994</time>
+<value>P</value>
+</trigger>
+
+<trigger>
+<station>GEXS</station>
+<network>AU</network>
+<location>00</location>
+<channel>BHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 33.994</time>
+<value>AML 0.000262516</value>
+</trigger>
+
+<trigger>
+<station>GEXS</station>
+<network>AU</network>
+<location>00</location>
+<channel>BHN</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 52.593</time>
+<value>S</value>
+</trigger>
+
+<trigger>
+<station>S88P</station>
+<network>DU</network>
+<location>0</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 28.877</time>
+<value>P</value>
+</trigger>
+
+<trigger>
+<station>S88P</station>
+<network>DU</network>
+<location>0</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 28.877</time>
+<value>AML 22567.835937500</value>
+</trigger>
+
+<trigger>
+<station>GVL</station>
+<network>AU</network>
+<location>00</location>
+<channel>BHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 19.785</time>
+<value>P</value>
+</trigger>
+
+<trigger>
+<station>GVL</station>
+<network>AU</network>
+<location>00</location>
+<channel>BHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 19.785</time>
+<value>AML 0.000091667</value>
+</trigger>
+
+<trigger>
+<station>GVL</station>
+<network>AU</network>
+<location>00</location>
+<channel>BHN</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 32.080</time>
+<value>S</value>
+</trigger>
+
+<trigger>
+<station>CDNM</station>
+<network>OZ</network>
+<location>60</location>
+<channel>HHE</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 29.069</time>
+<value>S</value>
+</trigger>
+
+<trigger>
+<station>CDNM</station>
+<network>OZ</network>
+<location>60</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 17.778</time>
+<value>P</value>
+</trigger>
+
+<trigger>
+<station>CDNM</station>
+<network>OZ</network>
+<location>60</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 17.778</time>
+<value>AML 0.000131038</value>
+</trigger>
+
+<trigger>
+<station>BUCHN</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHE</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 31.202</time>
+<value>P</value>
+</trigger>
+
+<trigger>
+<station>BUCHN</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHE</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 52.280</time>
+<value>S</value>
+</trigger>
+
+<trigger>
+<station>BUCHN</station>
+<network>OZ</network>
+<location>00</location>
+<channel>HHZ</channel>
+<triggertype>4 STALTA</triggertype>
+<time>2025-12-05 0952 31.202</time>
+<value>AML 0.000220927</value>
+</trigger>
+

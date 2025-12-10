@@ -1,0 +1,3599 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<FDSNStationXML xmlns="http://www.fdsn.org/xml/station/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="1.1" xsi:schemaLocation="http://www.fdsn.org/xml/station/1 http://www.fdsn.org/xml/station/fdsn-station-1.1.xsd">
+  <Source>_</Source>
+  <Sender>_</Sender>
+  <Module>Waves V5.0</Module>
+  <ModuleURI/>
+  <Created>2025-12-09T23:39:09</Created>
+  <Network code="OZ">
+    <TotalNumberStations>23</TotalNumberStations>
+    <Station code="KORUM">
+      <Latitude>-38.40644</Latitude>
+      <Longitude>145.85085</Longitude>
+      <Elevation>354</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-38.40644</Latitude>
+        <Longitude>145.85085</Longitude>
+        <Elevation>354</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>603979712.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>603979712.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-38.40644</Latitude>
+        <Longitude>145.85085</Longitude>
+        <Elevation>354</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>603979712.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>603979712.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-38.40644</Latitude>
+        <Longitude>145.85085</Longitude>
+        <Elevation>354</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>603979712.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>603979712.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="AUSMG">
+      <Latitude>-36.41610</Latitude>
+      <Longitude>148.60840</Longitude>
+      <Elevation>951</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Echo Pro</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-36.41610</Latitude>
+        <Longitude>148.60840</Longitude>
+        <Elevation>951</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>90</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>CMG-6TD</Type>
+          <Description>CMG-6TD</Description>
+          <SerialNumber>Guralp</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>2461540096.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>2461540096.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-36.41610</Latitude>
+        <Longitude>148.60840</Longitude>
+        <Elevation>951</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>CMG-6TD</Type>
+          <Description>CMG-6TD</Description>
+          <SerialNumber>Guralp</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>2465850112.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>2465850112.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-36.41610</Latitude>
+        <Longitude>148.60840</Longitude>
+        <Elevation>951</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>-90</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>CMG-6TD</Type>
+          <Description>CMG-6TD</Description>
+          <SerialNumber>Guralp</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>2465210112.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>2465210112.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="DAMM">
+      <Latitude>-37.73090</Latitude>
+      <Longitude>145.07820</Longitude>
+      <Elevation>56</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>1</TotalNumberChannels>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-37.73090</Latitude>
+        <Longitude>145.07820</Longitude>
+        <Elevation>56</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>200</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>1.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>1.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="BEGA">
+      <Latitude>-36.72992</Latitude>
+      <Longitude>149.84991</Longitude>
+      <Elevation>218</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=13.94
+temperature=29.8
+card_free_pc=3.0
+card_total=7798784</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Echo Pro</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>1</TotalNumberChannels>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-36.72992</Latitude>
+        <Longitude>149.84991</Longitude>
+        <Elevation>218</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>Sprengnether S6000 ser#10000+</Type>
+          <Description>Sprengnether S6000 ser#10000+</Description>
+          <SerialNumber>10430</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>104857600.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>838860.8</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>125.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="FRTM">
+      <Latitude>-38.53194</Latitude>
+      <Longitude>143.71765</Longitude>
+      <Elevation>247</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-38.53194</Latitude>
+        <Longitude>143.71765</Longitude>
+        <Elevation>247</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>1006632896.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>1006632896.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-38.53194</Latitude>
+        <Longitude>143.71765</Longitude>
+        <Elevation>247</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>1006632896.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>1006632896.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-38.53194</Latitude>
+        <Longitude>143.71765</Longitude>
+        <Elevation>247</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>1006632896.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>1006632896.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="CCRM">
+      <Latitude>-36.98907</Latitude>
+      <Longitude>143.97353</Longitude>
+      <Elevation>230</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-36.98907</Latitude>
+        <Longitude>143.97353</Longitude>
+        <Elevation>230</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>146842656.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>146842656.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-36.98907</Latitude>
+        <Longitude>143.97353</Longitude>
+        <Elevation>230</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>146887888.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>146887888.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-36.98907</Latitude>
+        <Longitude>143.97353</Longitude>
+        <Elevation>230</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>146767088.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>146767088.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="AUMAG">
+      <Latitude>-36.10160</Latitude>
+      <Longitude>144.74820</Longitude>
+      <Elevation>127</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Echo Pro</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-36.10160</Latitude>
+        <Longitude>144.74820</Longitude>
+        <Elevation>127</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>90</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>CMG-6TD</Type>
+          <Description>CMG-6TD</Description>
+          <SerialNumber>Guralp</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>2476339968.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>2476339968.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-36.10160</Latitude>
+        <Longitude>144.74820</Longitude>
+        <Elevation>127</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>CMG-6TD</Type>
+          <Description>CMG-6TD</Description>
+          <SerialNumber>Guralp</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>2490840064.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>2490840064.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-36.10160</Latitude>
+        <Longitude>144.74820</Longitude>
+        <Elevation>127</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>-90</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>CMG-6TD</Type>
+          <Description>CMG-6TD</Description>
+          <SerialNumber>Guralp</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>2479429888.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>2479429888.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="HOPM">
+      <Latitude>-35.99473</Latitude>
+      <Longitude>144.20587</Longitude>
+      <Elevation>135</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-35.99473</Latitude>
+        <Longitude>144.20587</Longitude>
+        <Elevation>135</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>405379488.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>405379488.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-35.99473</Latitude>
+        <Longitude>144.20587</Longitude>
+        <Elevation>135</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>405379488.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>405379488.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-35.99473</Latitude>
+        <Longitude>144.20587</Longitude>
+        <Elevation>135</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>405379488.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>405379488.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="DROM">
+      <Latitude>-38.34814</Latitude>
+      <Longitude>144.95979</Longitude>
+      <Elevation>151</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-38.34814</Latitude>
+        <Longitude>144.95979</Longitude>
+        <Elevation>151</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>603979712.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>603979712.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-38.34814</Latitude>
+        <Longitude>144.95979</Longitude>
+        <Elevation>151</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>603979712.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>603979712.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-38.34814</Latitude>
+        <Longitude>144.95979</Longitude>
+        <Elevation>151</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>603979712.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>603979712.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="MLWM">
+      <Latitude>-37.13624</Latitude>
+      <Longitude>145.51147</Longitude>
+      <Elevation>280</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-37.13624</Latitude>
+        <Longitude>145.51147</Longitude>
+        <Elevation>280</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>320679680.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>320679680.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-37.13624</Latitude>
+        <Longitude>145.51147</Longitude>
+        <Elevation>280</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>320680032.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>320680032.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-37.13624</Latitude>
+        <Longitude>145.51147</Longitude>
+        <Elevation>280</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>320679680.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>320679680.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="MOGAR">
+      <Latitude>-36.69650</Latitude>
+      <Longitude>149.97610</Longitude>
+      <Elevation>13</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-36.69650</Latitude>
+        <Longitude>149.97610</Longitude>
+        <Elevation>13</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>90</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>BB</Type>
+          <Description>BB</Description>
+          <SerialNumber>9299</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>299469760.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>299469760.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-36.69650</Latitude>
+        <Longitude>149.97610</Longitude>
+        <Elevation>13</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>BB</Type>
+          <Description>BB</Description>
+          <SerialNumber>9299</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>299469760.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>299469760.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-36.69650</Latitude>
+        <Longitude>149.97610</Longitude>
+        <Elevation>13</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>-90</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>BB</Type>
+          <Description>BB</Description>
+          <SerialNumber>9299</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>299469760.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>299469760.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="MLBS">
+      <Latitude>-37.82915</Latitude>
+      <Longitude>144.89436</Longitude>
+      <Elevation>9</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="BHE" locationCode="">
+        <Latitude>-37.82915</Latitude>
+        <Longitude>144.89436</Longitude>
+        <Elevation>9</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>301720000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>301720000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude>-37.82915</Latitude>
+        <Longitude>144.89436</Longitude>
+        <Elevation>9</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>301720000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>301720000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude>-37.82915</Latitude>
+        <Longitude>144.89436</Longitude>
+        <Elevation>9</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>301720000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>301720000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="AUSSC">
+      <Latitude>-38.09770</Latitude>
+      <Longitude>147.08250</Longitude>
+      <Elevation>19</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Echo Pro</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-38.09770</Latitude>
+        <Longitude>147.08250</Longitude>
+        <Elevation>19</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>90</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>CMG-6TD</Type>
+          <Description>CMG-6TD</Description>
+          <SerialNumber>Guralp</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>2453580032.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>2453580032.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-38.09770</Latitude>
+        <Longitude>147.08250</Longitude>
+        <Elevation>19</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>CMG-6TD</Type>
+          <Description>CMG-6TD</Description>
+          <SerialNumber>Guralp</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>2454409984.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>2454409984.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-38.09770</Latitude>
+        <Longitude>147.08250</Longitude>
+        <Elevation>19</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>-90</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type>CMG-6TD</Type>
+          <Description>CMG-6TD</Description>
+          <SerialNumber>Guralp</SerialNumber>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>2490419968.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>2490419968.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="MILA">
+      <Latitude>-37.05470</Latitude>
+      <Longitude>149.15500</Longitude>
+      <Elevation>785</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="BH1" locationCode="">
+        <Latitude>-37.05470</Latitude>
+        <Longitude>149.15500</Longitude>
+        <Elevation>785</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>481000000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>481000000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="BH2" locationCode="">
+        <Latitude>-37.05470</Latitude>
+        <Longitude>149.15500</Longitude>
+        <Elevation>785</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>481000000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>481000000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude>-37.05470</Latitude>
+        <Longitude>149.15500</Longitude>
+        <Elevation>785</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>481000000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>481000000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="TOO">
+      <Latitude>-37.57140</Latitude>
+      <Longitude>145.49060</Longitude>
+      <Elevation>604</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="BHE" locationCode="">
+        <Latitude>-37.57140</Latitude>
+        <Longitude>145.49060</Longitude>
+        <Elevation>604</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>600000000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>600000000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude>-37.57140</Latitude>
+        <Longitude>145.49060</Longitude>
+        <Elevation>604</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>600000000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>600000000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude>-37.57140</Latitude>
+        <Longitude>145.49060</Longitude>
+        <Elevation>604</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>600000000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>600000000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="WAMB">
+      <Latitude>-36.19120</Latitude>
+      <Longitude>148.88293</Longitude>
+      <Elevation>1342</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-36.19120</Latitude>
+        <Longitude>148.88293</Longitude>
+        <Elevation>1342</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>819657280.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>819657280.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-36.19120</Latitude>
+        <Longitude>148.88293</Longitude>
+        <Elevation>1342</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>814465152.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>814465152.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-36.19120</Latitude>
+        <Longitude>148.88293</Longitude>
+        <Elevation>1342</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>811914752.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>811914688.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="TOT">
+      <Latitude>-37.82313</Latitude>
+      <Longitude>146.40738</Longitude>
+      <Elevation>708</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-37.82313</Latitude>
+        <Longitude>146.40738</Longitude>
+        <Elevation>708</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>179449088.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>179449088.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-37.82313</Latitude>
+        <Longitude>146.40738</Longitude>
+        <Elevation>708</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>179449056.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>179449056.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-37.82313</Latitude>
+        <Longitude>146.40738</Longitude>
+        <Elevation>708</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>179561840.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>179561840.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="BOGA">
+      <Latitude>-35.54700</Latitude>
+      <Longitude>143.57532</Longitude>
+      <Elevation>96</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-35.54700</Latitude>
+        <Longitude>143.57532</Longitude>
+        <Elevation>96</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>810758976.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>810758976.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-35.54700</Latitude>
+        <Longitude>143.57532</Longitude>
+        <Elevation>96</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>810758976.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>810758976.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-35.54700</Latitude>
+        <Longitude>143.57532</Longitude>
+        <Elevation>96</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>810758976.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>810758976.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="GEXS">
+      <Latitude>-38.20080</Latitude>
+      <Longitude>144.28999</Longitude>
+      <Elevation>10</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="BHE" locationCode="">
+        <Latitude>-38.20080</Latitude>
+        <Longitude>144.28999</Longitude>
+        <Elevation>10</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>301720000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>301720000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude>-38.20080</Latitude>
+        <Longitude>144.28999</Longitude>
+        <Elevation>10</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>301720000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>301720000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude>-38.20080</Latitude>
+        <Longitude>144.28999</Longitude>
+        <Elevation>10</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>301720000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>301720000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="S88P">
+      <Latitude>-37.16798</Latitude>
+      <Longitude>144.05162</Longitude>
+      <Elevation>311</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>1</TotalNumberChannels>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-37.16798</Latitude>
+        <Longitude>144.05162</Longitude>
+        <Elevation>311</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>200</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>1.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>1.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="GVL">
+      <Latitude>-37.62140</Latitude>
+      <Longitude>144.89900</Longitude>
+      <Elevation>185</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="BHE" locationCode="">
+        <Latitude>-37.62140</Latitude>
+        <Longitude>144.89900</Longitude>
+        <Elevation>185</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>301720000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>301720000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude>-37.62140</Latitude>
+        <Longitude>144.89900</Longitude>
+        <Elevation>185</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>301720000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>301720000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude>-37.62140</Latitude>
+        <Longitude>144.89900</Longitude>
+        <Elevation>185</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>40</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>301720000.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>301720000.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="CDNM">
+      <Latitude>-37.94652</Latitude>
+      <Longitude>145.42525</Longitude>
+      <Elevation>244</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-37.94652</Latitude>
+        <Longitude>145.42525</Longitude>
+        <Elevation>244</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>301989856.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>301989856.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-37.94652</Latitude>
+        <Longitude>145.42525</Longitude>
+        <Elevation>244</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>301989856.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>301989856.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-37.94652</Latitude>
+        <Longitude>145.42525</Longitude>
+        <Elevation>244</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>301989856.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>301989856.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+    <Station code="BUCHN">
+      <Latitude>-37.52916</Latitude>
+      <Longitude>148.09610</Longitude>
+      <Elevation>260</Elevation>
+      <Site>
+        <Name/>
+      </Site>
+      <Equipment>
+        <Type>Seismograph</Type>
+        <Description>firmware_version=
+build_number=
+stalta_enable=1
+sta=0.0
+lta=0.0
+stalta_threshold=0.0
+trig_filt_lo_freq=0.0
+trig_filt_hi_freq=0.0
+level_trigger_enable=false
+level_trigger_level=0.0
+v_supply=-1.0
+temperature=-999.0
+card_free_pc=-1.0
+card_total=-1</Description>
+        <Manufacturer>Seismology Research Centre</Manufacturer>
+        <Model>Unknown</Model>
+        <SerialNumber/>
+      </Equipment>
+      <CreationDate>2025-12-09T23:39:09</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <Channel code="HHE" locationCode="">
+        <Latitude>-37.52916</Latitude>
+        <Longitude>148.09610</Longitude>
+        <Elevation>260</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>325981280.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>325981280.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHN" locationCode="">
+        <Latitude>-37.52916</Latitude>
+        <Longitude>148.09610</Longitude>
+        <Elevation>260</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>325981280.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>325981280.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" locationCode="">
+        <Latitude>-37.52916</Latitude>
+        <Longitude>148.09610</Longitude>
+        <Elevation>260</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth>0</Azimuth>
+        <Dip>0</Dip>
+        <SampleRate>100</SampleRate>
+        <Sensor>
+          <Type/>
+          <Description/>
+          <SerialNumber/>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>325981280.00</Value>
+            <Frequency>1</Frequency>
+            <InputUnits>
+              <Name>M/S</Name>
+              <Description>Velocity</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1" resourceId="gain">
+            <StageGain>
+              <Value>1.00000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="2" resourceId="cpv">
+            <StageGain>
+              <Value>325981280.0</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+          <Stage number="3" resourceId="vpu">
+            <StageGain>
+              <Value>1.000000</Value>
+              <Frequency>1</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+  </Network>
+</FDSNStationXML>
