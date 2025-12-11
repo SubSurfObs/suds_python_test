@@ -52,8 +52,6 @@ but COMMENT blocks are not yet mapped reliably.
 
 Roadmap / To-Do
 
-🔸 Waveform Conversion
-
 
 🔸 Metadata Improvements
 * Correctly bind COMMENT blocks to the station they belong to
